@@ -29,7 +29,7 @@ const Video = () => {
                <h1 className='text-center text-4xl pt-12 pb-20 text-cyan-900'> <span className='text-ownColor'>We Ofer People</span> The Service They Want</h1>
             </div>
             <div>
-                 <img className='w-full' src='/image/video.png' alt='video'></img>
+                 <img className='w-full' src='image/Video.png' alt='video'></img>
             </div>
             <div>
                 <div className='px-4 mt-8 sm:px-100'>

@@ -19,7 +19,7 @@ const NavBar = () => {
                             <div className=' flex items-center justify-center'>
                                  <div className='flex items-center'>
                                     <div>
-                                        <img className=' object-cover' src='image/momo.png' alt='momo'></img>
+                                        <img className=' object-cover' src='image/Momo.png' alt='momo'></img>
                                     </div>
                                      <div className='ml-5'>
                                          <div>
